@@ -20,7 +20,7 @@ msgid "Default values for trancoding"
 msgstr "Стойности по подразбиране за транскодиране"
 
 msgid "Frame rate"
-msgstr ""
+msgstr "Скорост на кадрите"
 
 msgid "It seems your receiver is not supported!"
 msgstr "Изглежда, че Вашия приемник не се поддържа!"
@@ -29,13 +29,13 @@ msgid "Not found file '/etc/enigma2/streamproxy.conf' !"
 msgstr "Не е намерен файл'/etc/enigma2/streamproxy.conf' !"
 
 msgid "Port"
-msgstr ""
+msgstr "Порт"
 
 msgid "Quit"
 msgstr "Изход"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Резолюция"
 
 msgid "Set"
 msgstr "Запази"
@@ -46,9 +46,8 @@ msgstr "Настройка на параментрите за транскоди
 msgid "Transcoding Setup"
 msgstr "Настройки за транскодиране"
 
-#, fuzzy
 msgid "Video codec"
-msgstr "Видео размер"
+msgstr "Видео кодек"
 
 msgid "Video size"
 msgstr "Видео размер"
